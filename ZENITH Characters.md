@@ -1,4 +1,4 @@
-##ZERO##
+##ZERO
 The protagonist. After the ZENITH outbreak, Zero lost all contact with their only remaining family member (their father). 
 Since then, they have taken shelter with a local faction that is working towards storming the former HQ of Entech in search of a solution to the virus.
 
