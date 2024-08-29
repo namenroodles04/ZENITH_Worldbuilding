@@ -1,4 +1,5 @@
-ZERO--The protagonist. After the ZENITH outbreak, Zero lost all contact with their only remaining family member (their father). 
+##ZERO##
+The protagonist. After the ZENITH outbreak, Zero lost all contact with their only remaining family member (their father). 
 Since then, they have taken shelter with a local faction that is working towards storming the former HQ of Entech in search of a solution to the virus.
 
 SILAS--The protagonist's father. Former Senior Advisor of Entech Corporation. Declared missing the same day as the outbreak of the ZENITH virus. Presumed dead.
