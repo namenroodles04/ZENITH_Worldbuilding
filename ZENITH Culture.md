@@ -1,2 +1,10 @@
-It is everyone for themselves. Over the years, some established factions have sprouted up here and there. 
-But the major governments collapsed a long time ago, leaving many without direction and seeking any way to survive.
+## Dystopian Society ##
+It is everyone for themselves. Over the years, some established factions have sprouted up here and there. But the major governments collapsed a long time ago, leaving many without direction and seeking any way to survive.
+
+## Factions ##
+### N.A.I.L ###
+The faction that houses Zero, Kor, and. They are on a mission to rid the world of Entech's corrupted technology and restore a sense of normalcy to a now-apocalyptic society. Well run by its leader, N.A.I.L has grown exponentially over the years, whether that be through collecting lone survivors or accepting new members through different expeditions. Many people side with N.A.I.L's ideals, at least for the time being. The acronym simply stands for "No Artificial Intelligence Left." Their ultimate goal is to completely wipe out advanced forms of technology to stop the spread of the virus. Because of this, they have developed a procedure to remove the telepathy chips that many people have. Other, more drastic body modifications are more difficult to reverse, however. N.A.I.L has not found a way to safely remove high-tech limb prosthetics.
+### Androids ###
+The Android faction consists of the androids and AI corrupted by the ZENITH virus. It also includes any humans that, at the time of the outbreak, contained too many bodily modifications and lost control of their body (while this isn't common, some instances have been reported where people unwillingly fought against fellow humans simply because they could no longer control their prosthetic arms and legs). The virus makes these androids and AI extremely violent, their sole purpose being to wipe out whatever remains of humanity.
+### Vultures ###
+The Vultures barely consider themselves a faction. They find a sense of freedom in the disorder of the world. They take what they want, when they want, and however they see fit. They're known for raiding small android and human camps alike, but don't explicitly care to rid the planet of the virus problem. They care more about their own survival than the fate of the world.
