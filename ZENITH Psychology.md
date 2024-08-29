@@ -1,4 +1,8 @@
-Most characters tend to be wary of new people--anyone who is a little too laid-back is extremely suspicious. 
-This is an unfortunate era of high anxiety and high paranoia. See the morals file below for more info.
+## General Population Psyche ##
+Most characters tend to be wary of new people--anyone who is a little too laid-back is extremely suspicious. This is an unfortunate era of high anxiety and high paranoia. See the [Morals](<ZENITH Morals>) file for more info.
 
-[Morals](<ZENITH Morals>)
+## Co-Pilot Syndrome ##
+After the outbreak of ZENITH, many people with prosthetic limbs (either for increased functionality or purely out of necessity) issued from Entech tend to lose functionality over time. This is less prevalent in someone with fewer modifications to their body, but in extreme cases, some people have no control whatsoever of where or how they move. Most hosts in these cases return to the nearest android settlement, where they are forced to carry out whatever these Androids wish. Most people can survive with 1-2 Entech prosthetics, but anything more is recommended to be removed. Extreme cases are nearly 100% fatal: causes of death have included (but are not limited to) exhaustion, starvation, blood loss, dehydration, and asphyxiation.
+
+## Telepathy-Induced Schizophrenia ##
+Increased cases of Schizophrenia have been steadily reported since the ZENITH outbreak. A certain, strictly auditory vein has now been tracked to those with a telepathy implant. People suffering from TI (Telepathy-Induced) Schizophrenia have reported hearing voices without seeing or speaking to anyone else. Most of the messages reported strangely pertain to the complete annihilation of the human race. Common phrases seem to link these cases, such as "surrender yourself to me," and "resistance is futile." Other, more descriptive auditory hallucinations have been reported in more extreme cases. Removal of the telepathy implant cures most cases.
