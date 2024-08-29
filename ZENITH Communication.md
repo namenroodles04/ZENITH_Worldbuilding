@@ -1,2 +1,4 @@
-The story takes place in a former US East-coast city. As a result, the main language is English. 
-Although, thanks to Entech Corp., many people are capable of speaking remotely (telepathy).
+The story takes place in a former US East Coast city, and the main language is English. Although, thanks to Entech Corp., many people are capable of speaking remotely (telepathy).
+
+## Entech Production of TELEPATHY ##
+Entech keeps the true nature of its technology completely hidden, focusing more on market appeal to the masses. The prototype of telepathy sprouted from a strange piece of technology: a pair of glasses capable of projecting the thoughts of other people. The user could select whose thoughts they were hearing based solely on who they were talking to. The true origins of these mysterious glasses were never discovered. However, a team of skilled scientists was able to reverse-engineer the glasses to be able to project thoughts into other people's minds, rather than just being on the receiving end.
