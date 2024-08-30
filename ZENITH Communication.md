@@ -1,6 +1,6 @@
 The story takes place in a former US East Coast city, and the main language is English. Although, thanks to Entech Corp., many people are capable of speaking remotely (telepathy).
 
-## Entech Production of TELEPATHY ##
+## Entech Production of Telepathy ##
 Entech keeps the true nature of its technology completely hidden, focusing more on market appeal to the masses. The prototype of telepathy sprouted from a strange piece of technology: a pair of glasses capable of projecting the thoughts of other people. The user could select whose thoughts they were hearing based solely on who they were talking to. The true origins of these mysterious glasses were never discovered. However, a team of skilled scientists was able to reverse-engineer the glasses to be able to project thoughts into other people's minds, rather than just being on the receiving end. This technology was later developed into an implant that Entech customers could get surgically attached in the base of their neck. The technology only progressed to a point where people with this implant were capable of communicating telepathically with each other but were unable to send these messages to those without the implant.
 
 See the [psychology](<ZENITH Psychology.md>) file for more information on "Telepathy-Induced Schizophrenia."
