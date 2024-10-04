@@ -7,13 +7,13 @@
 ### Series 2 Androids ###
 - The vast improvement on the first model of Android. Emphasis on enhancing the android's human-like qualities (more realistic features, speech, and movement). Their design was aimed to be easily integrated into society after receiving multiple complaints that the original model is "too creepy."
 - The ES8-10 processor was still utilized in the creation of this model, although an alternate power supply was provided to cut costs.
-- It is theorized that this small change in hardware allows some androids to fight back against the ZENITH Virus. Eventually, weaker, more worn-down (or damaged) models succumb to ZENITH.
-- While there are more Series 1 Androids made prior to the spread of the ZENITH Virus, there is still a good number of Series 2 as well. It is (roughly) about a 60/40 split.
-- Regardless of model, all Entech-made androids carry the ZENITH Virus. It is a matter of the android suppressing the virus themselves as to not get "infected."
+- It is theorized that this small change in hardware allows some androids to fight back against the ZENITH virus. Eventually, weaker, more worn-down (or damaged) models succumb to ZENITH.
+- While there are more Series 1 Androids made prior to the spread of the ZENITH virus, there is still a good number of Series 2 as well. It is (roughly) about a 60/40 split.
+- Regardless of model, all Entech-made androids carry the ZENITH virus. It is a matter of the android suppressing the virus themselves as to not get "infected."
 
 # Spread of ZENITH Virus #
 ### Stage 1 ###
-- October 13th, 2305 is the first instance of the ZENITH Virus.
+- October 13th, 2305 is the first instance of the ZENITH virus.
 - Symptoms include lack of verbal speech, highly mechanical and stiff movement, and black eyes (optic sensors).
 - Androids do not make an effort to hide the fact that they are an Android, or that they carry the virus.
 - Androids in this stage are slow-moving, but still highly dangerous. It is advised to keep a good distance between any Android with black eyes. Close contact with an android in this stage isn't guaranteed to be lethal unless in large numbers.
@@ -44,7 +44,7 @@
 - Those with Entech implants/prosthetics are extremely susceptible to a Hive's call. Most victims of co-pilot syndrome unfortunately end up being absorbed into a Hive.
 - Androids that have previously resisted the ZENITH virus so far are also more susceptible to a Hive's call.
 - While it is possible that someone without any Entech cybernetic enhancements could fall victim to the Hive's call, it is not as likely.
-- It is theorized that telepathy is the main source of a Hive's call power. However, no telepathic technology existed prior to this evolution of a Hive that was capable of completely controlling another individual. Hence, the true nature of this power is relatively unknown.
+- It is theorized that telepathy is the main source of a Hive's call power. However, no telepathic technology existed prior to this evolution that was capable of completely controlling another individual. Hence, the true nature of this power is relatively unknown.
 
 # ES8-10 #
 - ES8-10 is not considered to be an Android. The nature of its origins are unknown to members of the human race. Some members of Vulture have interrogated Androids as to ES8-10's origin, however these interrogations mostly lead to nothing. Androids, curiously, seem to "shut down" upon being questioned about ES8-10.
