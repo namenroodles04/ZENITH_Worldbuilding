@@ -47,7 +47,7 @@
 - It is theorized that telepathy is the main source of a Hive's call power. However, no telepathic technology existed prior to this evolution of a Hive that was capable of completely controlling another individual. Hence, the true nature of this power is relatively unknown.
 
 # ES8-10 #
-- ES8-10 is not considered to be an Android. The nature of its origins are unknown to members of the human race. Some members of Vulture have interrogated Androids as to ES8-10's origin. These interrogations mostly lead to nothing. Androids, curiously, seem to "shut down" upon being questioned about ES8-10.
+- ES8-10 is not considered to be an Android. The nature of its origins are unknown to members of the human race. Some members of Vulture have interrogated Androids as to ES8-10's origin, however these interrogations mostly lead to nothing. Androids, curiously, seem to "shut down" upon being questioned about ES8-10.
 - The only knowledge Zero has found relevant was a short note left by their father prior to his dissapearance. They haven't shared this information with NAIL. It reads:
 
   > "The devil is alien to us, Zero. Know that I always loved you."
