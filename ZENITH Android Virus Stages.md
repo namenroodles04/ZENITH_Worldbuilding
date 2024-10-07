@@ -5,14 +5,14 @@
 - At the conception of the ZENITH Virus, the first androids that "turned" were all series 1. Due to their direct line to ES8-10 via its processor, they had little to no way of resisting it--almost as though a switch was flipped in their heads.
 
 ### Series 2 Androids ###
-- The vast improvement on the first model of Android. Emphasis on enhancing the android's human-like qualities (more realistic features, speech, and movement). Their design was aimed to be easily integrated into society after receiving multiple complaints that the original model is "too creepy."
+- The vast improvement on the first model of Android. Emphasis on enhancing the android's human-like qualities (more realistic features, speech, and movement). Their design was aimed to be easily integrated into society after receiving multiple complaints that the original model was "too creepy."
 - The ES8-10 processor was still utilized in the creation of this model, although an alternate power supply was provided to cut costs.
 - It is theorized that this small change in hardware allows some androids to fight back against the ZENITH virus. Eventually, all weaker, more worn-down (or damaged) models succumb to ZENITH.
 - While there are more Series 1 Androids made prior to the spread of the ZENITH virus, there is still a good number of Series 2 as well. It is (roughly) about a 60/40 split.
-- Regardless of model, all Entech-made androids carry the ZENITH virus. It is a matter of the android suppressing the virus themselves as to not get "infected."
+- Regardless of model, all Entech-made androids carry the ZENITH virus. It is a matter of the android suppressing the virus itself as to not get "infected."
 
 # Spread of ZENITH Virus #
-*These stages are mostly documented by NAIL in an effort to better eliminate Androids. It should be noted that Vulture does conduct seperate investigations (as mentioned through their interrogations), but suffer from not being as organized.*
+*These stages are mostly documented by NAIL in an effort to better eliminate Androids. It should be noted that Vulture does conduct separate investigations (as mentioned through their interrogations), but suffers from not being as organized.*
 ### Stage 1 ###
 - October 13th, 2305 is the first instance of the ZENITH virus.
 - Symptoms include lack of verbal speech, highly mechanical and stiff movement, and black "eyes" (optic sensors).
@@ -27,7 +27,7 @@
 
 ### Stage 3 ###
 - March 2nd, 2306 is the first instance of an Android documented at stage 3.
-- Unlike stages 1 or 2, Androids in stage 3 of the infection begin reverting to their pre-viral state: They attempt to hide their face to obscure devil tears. Some Androids begin to move in a more natural way--although some Androids are better at this than others. In summary, Androids attempt to present as human in an effort to better infiltrate human settlements.
+- Unlike stages 1 or 2, Androids in stage 3 of the infection begin reverting to their pre-viral state: They attempt to hide their face to obscure devil tears. Some Androids begin to move in a more natural way--although some Androids are better at this than others. In summary, Androids attempt to present as human to better infiltrate human settlements.
 - Androids have re-evolved the capability of verbal speech. Or rather, they have elected to communicate out loud again (some theorize that they had previously communicated via telepathy/connection to a hivemind). This is also in an effort to appear more human.
 - It should be noted that series 2 androids are predisposed to evolving directly to stage 3. Due to their already realistic human appearance and behavior, a lot of series 2 androids (if they succumb to the virus) jump directly to stage 3, making it hard to tell if/when they actually become infected. The only visible side effect, in this case, would be the devil tears since that is the only persisting symptom.
 - Because series 2 Androids move directly to stage 3 upon being infected, it is unclear whether or not March 2nd was the first actual instance of stage 3. While it is theoretically possible that stage 3 of the ZENITH virus could have existed prior to this date (if, for some instance, some series 2 Androids were infected before this time), this is the first recorded instance of the stage developing.
@@ -35,9 +35,9 @@
 
 ### Stage 4 ###
 - May 28th, 2306 is the first instance of an Android documented at stage 4.
-- Many Androids do not make it to this stage, since many are become damaged or completely destroyed. Despite this, there has been a steady increase in Androids evolving into stage 4--perhaps to combat the wear-and-tear many infected Androids began to face.
+- Many Androids do not make it to this stage, since many become damaged or completely destroyed. Despite this, there has been a steady increase in Androids evolving into stage 4--perhaps to combat the wear-and-tear many infected Androids began to face.
 - While Androids still act human (like stage 3), they begin to attach modifications to their body. It is not immediately obvious if they are doing this out of self-preservation (repairing damaged parts), or to eliminate humans more effectively.
-- Regardless of reasoning, this enables Androids to heal and repair themselves. The obvious drawback is that Androids are no longer able to maintain a human appearance--instead becoming grotesque amalgamations of circutry, machine, and sometimes decaying human parts (see co-pilot syndrome), stretched to unnerving proportions. Physical appearance is highly variable depending on the individual Android.
+- Regardless of reasoning, this enables Androids to heal and repair themselves. The obvious drawback is that Androids are no longer able to maintain a human appearance--instead becoming grotesque amalgamations of circuitry, machine, and sometimes decaying human parts (see [co-pilot syndrome](<ZENITH Psychology.md>)), stretched to unnerving proportions. Physical appearance is highly variable depending on the individual Android.
 
 ### Stage 5 ###
 - June 9th, 2306 is the first instance of an Android documented at stage 5. It is the current last-known stage of the ZENITH Virus' evolution.
@@ -50,8 +50,8 @@
 - It is theorized that telepathy is the main source of a Hive's call power. However, no telepathic technology existed prior to this evolution that was capable of completely controlling another individual. Hence, the true nature of this power is relatively unknown.
 
 # ES8-10 #
-- ES8-10 is not considered to be an Android. The nature of its origins are unknown to members of the human race. Some members of Vulture have interrogated Androids as to ES8-10's origin, however these interrogations mostly lead to nothing. Androids, curiously, seem to "shut down" upon being questioned about ES8-10.
-- The only knowledge Zero has found relevant was a short note left by their father prior to his dissapearance. They haven't shared this information with NAIL. It reads:
+- ES8-10 is not considered to be an Android. The nature of its origins is unknown to members of the human race. Some members of Vulture have interrogated Androids as to ES8-10's origin, however, these interrogations mostly lead to nothing. Androids, curiously, seem to "shut down" upon being questioned about ES8-10.
+- The only knowledge Zero has found relevant is a short note left by their father prior to his disappearance. They haven't shared this information with NAIL. It reads:
 
   > "The devil is alien to us, Zero. Know that I always loved you."
-- Due to high Android concentration around Entech HQ, it is assumed that ES8-10 resides deep inside the lower levels of the HQ building. NAIL has conducted several scouting missions around HQ, and found that the ZENITH virus evolves much more rapidly the closer the Androids are to HQ. Hence the theory that that is where ES8-10 resides.
+- Due to the high Android concentration around Entech HQ, it is assumed that ES8-10 resides deep inside the lower levels of the HQ building. NAIL has conducted several scouting missions around HQ and found that the ZENITH virus evolves much more rapidly the closer the Androids are to HQ. Hence the theory that that is where ES8-10 resides.
