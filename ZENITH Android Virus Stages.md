@@ -12,6 +12,7 @@
 - Regardless of model, all Entech-made androids carry the ZENITH virus. It is a matter of the android suppressing the virus themselves as to not get "infected."
 
 # Spread of ZENITH Virus #
+*These stages are mostly documented by NAIL in an effort to better eliminate Androids. It should be noted that Vulture does conduct seperate investigations (as mentioned through their interrogations), but suffer from not being as organized.*
 ### Stage 1 ###
 - October 13th, 2305 is the first instance of the ZENITH virus.
 - Symptoms include lack of verbal speech, highly mechanical and stiff movement, and black "eyes" (optic sensors).
@@ -29,7 +30,8 @@
 - Unlike stages 1 or 2, Androids in stage 3 of the infection begin reverting to their pre-viral state: They attempt to hide their face to obscure devil tears. Some Androids begin to move in a more natural way--although some Androids are better at this than others. In summary, Androids attempt to present as human in an effort to better infiltrate human settlements.
 - Androids have re-evolved the capability of verbal speech. Or rather, they have elected to communicate out loud again (some theorize that they had previously communicated via telepathy/connection to a hivemind). This is also in an effort to appear more human.
 - It should be noted that series 2 androids are predisposed to evolving directly to stage 3. Due to their already realistic human appearance and behavior, a lot of series 2 androids (if they succumb to the virus) jump directly to stage 3, making it hard to tell if/when they actually become infected. The only visible side effect, in this case, would be the devil tears since that is the only persisting symptom.
-- Because series 2 Androids move directly to stage 3 upon being infected, it is unclear whether or not March 2nd was the first actual instance of stage 3. While it is theoretically possible that stage 3 of the ZENITH virus could have existed prior to this date (if, for some instance, series 2 Androids were infected before this time), this is the first recorded instance of the stage developing. Regardless, this date marks the period in time where stage 3 is much more prevalent.
+- Because series 2 Androids move directly to stage 3 upon being infected, it is unclear whether or not March 2nd was the first actual instance of stage 3. While it is theoretically possible that stage 3 of the ZENITH virus could have existed prior to this date (if, for some instance, some series 2 Androids were infected before this time), this is the first recorded instance of the stage developing.
+- Regardless, this date marks the period in time where stage 3 is much more prevalent. Any previous occurences were, at the time, disregarded as freak accidents or pure myth.
 
 ### Stage 4 ###
 - May 28th, 2306 is the first instance of an Android documented at stage 4.
