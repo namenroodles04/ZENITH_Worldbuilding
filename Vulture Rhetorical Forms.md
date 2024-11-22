@@ -1,11 +1,11 @@
 ## VULTURE ZENITH VIRUS STUDY (TALON SECTOR) ##
-The following entries span over a month following the evolution of one android that, unfortunately, fell victim to the ZENITH Virus. With the android’s permission prior to their infection (signed and/or verbal consent is provided by any android we permit within Vulture), the Talon Sector conducted research on the virus’ evolution. 
+*The following entries span over a month following the evolution of one android that, unfortunately, fell victim to the ZENITH Virus. With the android’s permission prior to their infection (signed and/or verbal consent is provided by any android we permit within Vulture), the Talon Sector conducted research on the virus’ evolution.*
 
-Talon clearance and above is required for accessing the following entries. Any member not permitted to view the following files will face punishment directly from the Head sector if they are caught doing so. 
+*Talon clearance and above is required for accessing the following entries. Any member not permitted to view the following files will face punishment directly from the Head sector if they are caught doing so.*
 
  
 
-[June 26th, 2306] 
+**[June 26th, 2306]**
 
 Virus Stage: 3 
 
@@ -13,7 +13,7 @@ Last night, we recorded that, despite our best efforts, Genevive succumbed to th
 
  
 
-[July 3rd, 2306] 
+**[July 3rd, 2306]**
 
 Virus Stage: 4 
 
@@ -21,7 +21,7 @@ A guard recorded disturbing noises coming from within the saferoom housing Genev
 
  
 
-[July 17th, 2306] 
+**[July 17th, 2306]**
 
 Virus Stage: 5 
 
