@@ -7,7 +7,7 @@ The faction that houses Zero, Kor, and Monty. They are on a mission to rid the w
 
 NAIL is mainly led and governed by Captain Monty Brown. They conduct themselves in a more centralized way, with each NAIL camp operating under Monty's supervision. Monty does have a small circle of supervisors he often confers with, as well as his right-hand Zero.
 
-View different [NAIL Media](<NAIL Rhetorical Forms.md>) here.
+View different [NAIL Media](https://github.com/namenroodles04/ZENITH_Worldbuilding/blob/cb6248b7ebb7b81068baa14f5aa62fdc1a8fbb9e/NAIL%20Rhetorical%20Forms.md) here.
 
 > ### Androids ###
 The Android faction mostly consists of the androids and AI corrupted by the ZENITH virus. It also includes any humans that, at the time of the outbreak, contained too many bodily modifications and lost control of their body (while this isn't common, some instances have been reported where people unwillingly fought against fellow humans simply because they could no longer control their prosthetic arms and legs). The virus makes these androids and AI extremely violent, their sole purpose being to wipe out whatever remains of humanity.
