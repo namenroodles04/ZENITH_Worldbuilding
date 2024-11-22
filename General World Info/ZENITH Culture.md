@@ -23,4 +23,4 @@ The Vultures operate in three separate sectors. While these sectors are largely 
 
 The responsibilities of the different sectors are not confined to any particular one--this is more a generalization of how each one operates. There are situations that warrant the Head Sector to lead the rest of the sectors, but otherwise, each sector essentially governs itself.
 
-View different [Vulture Media](<Vulture Rhetorical Forms.md>) here.
+View different [Vulture Media](https://github.com/namenroodles04/ZENITH_Worldbuilding/blob/cb6248b7ebb7b81068baa14f5aa62fdc1a8fbb9e/Vulture%20Rhetorical%20Forms.md) here.
