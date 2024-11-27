@@ -19,7 +19,13 @@ Here is an article providing information on the first instance of android violen
 > ### Vultures ###
 The Vultures are a loosely governed faction. Rather than ridding the world of all advanced technology, they found room to tinker and develop new (more analog) forms of protecting themselves. They disagree with NAIL's more direct solution of flat-out annihilation of the Androids and are more concerned about the causes of the virus itself--thus, they are actively searching for a "cure". They are known to shelter many uninfected Series 2 Androids and offer ways to prevent them from succumbing to ZENITH. Additionally, they interrogate many infected Androids to find out possible motives/origins of the virus. They take what they want and what they need, when they want, and however they see fit. They're known for raiding small android and human camps alike (particularly NAIL camps, since they don't really get along), and look to possibly coexist rather than completely ridding the world of Androids altogether.
 
-The Vultures operate in three separate sectors. While these sectors are largely capable of operating themselves, there is still a hierarchy between all three. The most important of these is the Head Sector, where all primary leadership resides. This sector calls the shots in larger conflicts, or any issues they deem too large for the individual sectors to handle. The second is referred to as the Talon Sector, consisting of the engineers, researchers, and doctors. This is where a majority of the ZENITH Virus research takes place, as well as where Vulture creates their own prosthetics/weapons/other technology. Finally, there is the Wing Sector, which consists of the scouts/foot soldiers. They are tasked with gathering supplies and information for Vulture.
+The Vultures operate in three separate sectors. While these sectors are largely capable of operating themselves, there is still a hierarchy between all three. 
+
+The most important of these is the Head Sector, where all primary leadership resides. This sector calls the shots in larger conflicts, or any issues they deem too large for the individual sectors to handle. 
+
+The second is referred to as the Talon Sector, consisting of the engineers, researchers, and doctors. This is where a majority of the ZENITH Virus research takes place, as well as where Vulture creates their own prosthetics/weapons/other technology. 
+
+Finally, there is the Wing Sector, which consists of the scouts/foot soldiers. They are tasked with gathering supplies and information for Vulture.
 
 The responsibilities of the different sectors are not confined to any particular one--this is more a generalization of how each one operates. There are situations that warrant the Head Sector to lead the rest of the sectors, but otherwise, each sector essentially governs itself.
 
