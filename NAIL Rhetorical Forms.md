@@ -1,6 +1,6 @@
 ## NAIL: RADIO TRANSMISSION RECORD ##
 
-*The following was recorded the date of June 9th, 2306, between NAIL Captain Monty Brown and the leader of strike team A, Holden Vasquez. Two NAIL strike teams, consisting of five members each, were sent to gather intel on Entech HQ’s construction. The events that transpired were unanticipated, and thus have been noted for further investigation.*
+*The following was recorded the date of July 9th, 2306, between NAIL Captain Monty Brown and the leader of strike team A, Holden Vasquez. Two NAIL strike teams, consisting of five members each, were sent to gather intel on Entech HQ’s construction. The events that transpired were unanticipated, and thus have been noted for further investigation.*
 
 *Level 4 Clearance is required for reviewing the following transcription. Any unauthorized viewership will be reported directly to Captain Monty Brown.* 
 
