@@ -26,21 +26,22 @@
 - At this point, it is common for Androids to form small "strike teams" that patrol the ruins of city streets in search of remaining humans.
 
 ### Stage 3 ###
-- March 2nd, 2306 is the first instance of an Android documented at stage 3.
+- May 2nd, 2306 is the first instance of an Android documented at stage 3.
 - Unlike stages 1 or 2, Androids in stage 3 of the infection begin reverting to their pre-viral state: They attempt to hide their face to obscure devil tears. Some Androids begin to move in a more natural way--although some Androids are better at this than others. In summary, Androids attempt to present as human to better infiltrate human settlements.
 - Androids have re-evolved the capability of verbal speech. Or rather, they have elected to communicate out loud again (some theorize that they had previously communicated via telepathy/connection to a hivemind). This is also in an effort to appear more human.
 - It should be noted that series 2 androids are predisposed to evolving directly to stage 3. Due to their already realistic human appearance and behavior, a lot of series 2 androids (if they succumb to the virus) jump directly to stage 3, making it hard to tell if/when they actually become infected. The only visible side effect, in this case, would be the devil tears since that is the only persisting symptom.
 - Because series 2 Androids move directly to stage 3 upon being infected, it is unclear whether or not March 2nd was the first actual instance of stage 3. While it is theoretically possible that stage 3 of the ZENITH virus could have existed prior to this date (if, for some instance, some series 2 Androids were infected before this time), this is the first recorded instance of the stage developing.
 - Regardless, this date marks the period in time where stage 3 is much more prevalent. Any previous occurences were, at the time, disregarded as freak accidents or pure myth.
+- NAIL has begun to refer to these androids as "speakers."
 
 ### Stage 4 ###
-- May 28th, 2306 is the first instance of an Android documented at stage 4.
+- June 17th, 2306 is the first instance of an Android documented at stage 4.
 - Many Androids do not make it to this stage, since many become damaged or completely destroyed. Despite this, there has been a steady increase in Androids evolving into stage 4--perhaps to combat the wear-and-tear many infected Androids began to face.
 - While Androids still act human (like stage 3), they begin to attach modifications to their body. It is not immediately obvious if they are doing this out of self-preservation (repairing damaged parts), or to eliminate humans more effectively.
 - Regardless of reasoning, this enables Androids to heal and repair themselves. The obvious drawback is that Androids are no longer able to maintain a human appearance--instead becoming grotesque amalgamations of circuitry, machine, and sometimes decaying human parts (see [co-pilot syndrome](<ZENITH Psychology.md>)), stretched to unnerving proportions. Physical appearance is highly variable depending on the individual Android.
 
 ### Stage 5 ###
-- June 9th, 2306 is the first instance of an Android documented at stage 5. It is the current last-known stage of the ZENITH Virus' evolution.
+- July 9th, 2306 is the first instance of an Android documented at stage 5. It is the current last-known stage of the ZENITH Virus' evolution.
 - In direct response to stage 4, Androids become able to merge with other Androids. Androids at this stage are referred to as "Hives" by the NAIL faction.
 - Hives are able to self-repair due to the sheer mass of androids. The larger the amount of androids in the hive, the faster they are able to do so.
 - Hives are essentially completely immobile. However, that is not to say they are not dangerous. In fact, they are considered one of the most dangerous forms of Android so far. This is due to their ability to hypnotize humans/Androids via telepathy.
